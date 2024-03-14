@@ -52,9 +52,9 @@ CIRCUIT DIAGRAM
 
 ### FIGURE 04 CIRCUIT 
 
-![Screenshot 2024-03-14 111401](https://github.com/Srikaavyaathamizh/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/144870938/d5d8e603-a3ad-4cfb-b15f-1157acd6c376)
+<img width="592" alt="image" src="https://github.com/EPriyadharshini/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/144870831/adb96eed-fdd6-4e46-b0f9-ea2b9bf703f9">
 
-![Screenshot 2024-03-14 111523](https://github.com/Srikaavyaathamizh/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/144870938/8280b084-9e06-48c6-aff8-494f14647249)
+<img width="484" alt="thinkercad map ex 5" src="https://github.com/EPriyadharshini/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/144870831/a6b65f89-2037-4a92-98c6-91d21ac7e104">
 
 
 
