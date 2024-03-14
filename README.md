@@ -1,4 +1,4 @@
-<img width="592" alt="image" src="https://github.com/EPriyadharshini/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/144870831/87ed9470-1191-42f8-833a-9fae44bc7913"><img width="470" alt="image" src="https://github.com/EPriyadharshini/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/144870831/3a8be945-3425-4eac-8cc8-2dd50e6ae06a">###  DATE: 14/03/2024
+###  DATE: 14/03/2024
 ###  NAME:E.Priyadharshini 
 ###  ROLL NO :212223230159
 ###  DEPARTMENT:B.TECH(AIDS)
@@ -53,7 +53,36 @@ CIRCUIT DIAGRAM
 ### FIGURE 04 CIRCUIT 
 
 
+
+
+
+
+
+
 <img width="470" alt="image" src="https://github.com/EPriyadharshini/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/144870831/f3cb3bd3-5172-49fb-9dc3-85211595d3e3">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
